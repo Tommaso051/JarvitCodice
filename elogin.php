@@ -12,7 +12,7 @@ Flight::route('/elogin.php/', function(){
 });
 //faccio partire il routing
 Flight::start();
-
+h
 ?>
 <link rel="icon" href="foto/Immagine.png" type="png" /> 
 <img src="foto/ae1acabd2dcaeb057494e08a1a1369b0.jpg" id="sfondo" />
